@@ -1,0 +1,10 @@
+var num: int = 12;
+letem: float (
+    first   = 1.1,
+    second  = 2.2,
+    third   = 3.3,
+);
+var num2: int = 3;
+var new: int = num + num2
+
+####################################

@@ -1,0 +1,3 @@
+# Golang Notes
+
+Pretty much
